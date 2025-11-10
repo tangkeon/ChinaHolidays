@@ -1,0 +1,2557 @@
+[
+  {
+    "date": "20260101",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260102",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260103",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260104",
+    "descText": "法定工作日(法定调整上班)",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260105",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260106",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260107",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260108",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260109",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260110",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260111",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260112",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260113",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260114",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260115",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260116",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260117",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260118",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260119",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260120",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260121",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260122",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260123",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260124",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260125",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260126",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260127",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260128",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260129",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260130",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260131",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260201",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260202",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260203",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260204",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260205",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260206",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260207",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260208",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260209",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260210",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260211",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260212",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260213",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260214",
+    "descText": "法定工作日(法定调整上班)",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260215",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260216",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260217",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260218",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260219",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260220",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260221",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260222",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260223",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260224",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260225",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260226",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260227",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260228",
+    "descText": "法定工作日(法定调整上班)",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260301",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260302",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260303",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260304",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260305",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260306",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260307",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260308",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260309",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260310",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260311",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260312",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260313",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260314",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260315",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260316",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260317",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260318",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260319",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260320",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260321",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260322",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260323",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260324",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260325",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260326",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260327",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260328",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260329",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260330",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260331",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260401",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260402",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260403",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260404",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260405",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260406",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260407",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260408",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260409",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260410",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260411",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260412",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260413",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260414",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260415",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260416",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260417",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260418",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260419",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260420",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260421",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260422",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260423",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260424",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260425",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260426",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260427",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260428",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260429",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260430",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260501",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260502",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260503",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260504",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260505",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260506",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260507",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260508",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260509",
+    "descText": "法定工作日(法定调整上班)",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260510",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260511",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260512",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260513",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260514",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260515",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260516",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260517",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260518",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260519",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260520",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260521",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260522",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260523",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260524",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260525",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260526",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260527",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260528",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260529",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260530",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260531",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260601",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260602",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260603",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260604",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260605",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260606",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260607",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260608",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260609",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260610",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260611",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260612",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260613",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260614",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260615",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260616",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260617",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260618",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260619",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260620",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260621",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260622",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260623",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260624",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260625",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260626",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260627",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260628",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260629",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260630",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260701",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260702",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260703",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260704",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260705",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260706",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260707",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260708",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260709",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260710",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260711",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260712",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260713",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260714",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260715",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260716",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260717",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260718",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260719",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260720",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260721",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260722",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260723",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260724",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260725",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260726",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260727",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260728",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260729",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260730",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260731",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260801",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260802",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260803",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260804",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260805",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260806",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260807",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260808",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260809",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260810",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260811",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260812",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260813",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260814",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260815",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260816",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260817",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260818",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260819",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260820",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260821",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260822",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260823",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260824",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260825",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260826",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260827",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260828",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260829",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260830",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260831",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260901",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260902",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260903",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260904",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260905",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260906",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260907",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260908",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260909",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260910",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260911",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260912",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260913",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260914",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260915",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260916",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260917",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260918",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260919",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260920",
+    "descText": "法定工作日(法定调整上班)",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260921",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260922",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260923",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20260924",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20260925",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 5
+  },
+  {
+    "date": "20260926",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20260927",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20260928",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20260929",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20260930",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261001",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261002",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261003",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261004",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261005",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261006",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261007",
+    "descText": "法定休息日(法定节假日)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261008",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261009",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261010",
+    "descText": "法定工作日(法定调整上班)",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261011",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261012",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261013",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261014",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261015",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261016",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261017",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261018",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261019",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261020",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261021",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261022",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261023",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261024",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261025",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261026",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261027",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261028",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261029",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261030",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261031",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261101",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261102",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261103",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261104",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261105",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261106",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261107",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261108",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261109",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261110",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261111",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261112",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261113",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261114",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261115",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261116",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261117",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261118",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261119",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261120",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261121",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261122",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261123",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261124",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261125",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261126",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261127",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261128",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261129",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261130",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261201",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261202",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261203",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261204",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261205",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261206",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261207",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261208",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261209",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261210",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261211",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261212",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261213",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261214",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261215",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261216",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261217",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261218",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261219",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261220",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261221",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261222",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261223",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261224",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  },
+  {
+    "date": "20261225",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 5
+  },
+  {
+    "date": "20261226",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 6
+  },
+  {
+    "date": "20261227",
+    "descText": "正常休息日(周末)",
+    "stateNum": 1,
+    "stateText": "休息日",
+    "weekNum": 7
+  },
+  {
+    "date": "20261228",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 1
+  },
+  {
+    "date": "20261229",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 2
+  },
+  {
+    "date": "20261230",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 3
+  },
+  {
+    "date": "20261231",
+    "descText": "正常工作日",
+    "stateNum": 0,
+    "stateText": "工作日",
+    "weekNum": 4
+  }
+]
